@@ -9568,43 +9568,43 @@ body.sidebar-open::before {
   padding: 27px 0px;
 }
 
-.features-overview .content-header {
+.features-overview .content-header .features-overview-2 {
   padding: 78px 0px 48px 0px;
   text-align: center;
 }
 
 @media (max-width: 992px) {
-  .features-overview .content-header {
+  .features-overview .content-header .features-overview-2 {
     padding: 60px 0px;
   }
 }
 
-.features-overview .readmore-link {
+.features-overview .readmore-link .features-overview-2 {
   font-size: 13px;
   color: #97a3be;
   font-weight: 500;
   transition: color 0.5s ease-in-out;
 }
 
-.features-overview .readmore-link:hover {
+.features-overview .readmore-link:hover .features-overview-2 {
   color: #ff0000;
 }
 
-.features-overview .features-width {
+.features-overview .features-width .features-overview-2 {
   flex-basis: 61%;
 }
 
 @media (max-width: 767px) {
-  .features-overview .features-width {
+  .features-overview .features-width .features-overview-2 {
     flex-basis: 100%;
   }
 }
 
-.features-overview .img-icons {
+.features-overview .img-icons .features-overview-2 {
   transition: all 0.4s ease-in-out;
 }
 
-.features-overview .img-icons:hover {
+.features-overview .img-icons:hover .features-overview-2 {
   transform: scale(1.1);
 }
 
